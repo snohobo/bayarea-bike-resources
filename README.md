@@ -5,7 +5,8 @@ A listing of all free and pay to play bike resources for DIY bike mechanics or t
 
 San Francisco
 -------------
-* The Bike Kitchen - www.bikekitchen.org Hours: T,W,Th 6PM-9PM, Sat 12PM-3PM
+* The Bike Kitchen - 
+  * www.bikekitchen.org Hours: T,W,Th 6PM-9PM, Sat 12PM-3PM
 
 Oakland
 -------
