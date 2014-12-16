@@ -29,5 +29,7 @@ Berkeley
 
 North Bay
 ---------
-* The Bicycle Works in San Anselmo - http://www.thebicycleworks.org/ Not sure if DIY repair available
+* The Bicycle Works in San Anselmo
+ * http://www.thebicycleworks.org/ 
+ * Not sure if DIY repair available
 :grimacing:
